@@ -5,7 +5,6 @@ b301.tex
 aac.tex
 72cf.html
 dfb2.tex
-97dc.tex
 f68a.tex
 19b9.html
 1b8c.tex
