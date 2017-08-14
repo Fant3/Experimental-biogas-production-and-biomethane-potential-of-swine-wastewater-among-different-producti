@@ -19,3 +19,4 @@ grid:
     url: "/users/102716/articles/173986/master/file/figures/Article2_Table3/Article2_Table3.xlsx"
     folder_url: "/users/102716/articles/173986/master/folder/figures/Article2_Table3"
     treatFirstLineAsHeader: true
+    fontSize: small
