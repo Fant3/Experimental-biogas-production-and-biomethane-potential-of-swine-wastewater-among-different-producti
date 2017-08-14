@@ -10,4 +10,5 @@ f68a.tex
 1b8c.tex
 s1hoh5mgjik.html
 j9ickl6p3j4.tex
+figures/Article2_Table3
 rm5p3vg0sn.html
