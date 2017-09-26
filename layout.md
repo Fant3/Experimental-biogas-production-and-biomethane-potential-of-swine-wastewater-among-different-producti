@@ -5,6 +5,8 @@ b301.tex
 aac.tex
 72cf.html
 dfb2.tex
+figures/BMP_Table2
+ctnonkn5io4.tex
 j9ickl6p3j4.tex
 figures/Article2_Table3
 rm5p3vg0sn.html
