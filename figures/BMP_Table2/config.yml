@@ -16,6 +16,6 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/102716/articles/173986/master/file/figures/BMP_Table2/BMP_Table2.xlsx"
     folder_url: "/users/102716/articles/173986/master/folder/figures/BMP_Table2"
     treatFirstLineAsHeader: true
+    url: "/users/102716/articles/173986/master/file/figures/BMP_Table2/BMP_Table2.xlsx"
