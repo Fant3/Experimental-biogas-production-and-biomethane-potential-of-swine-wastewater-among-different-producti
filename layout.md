@@ -1,6 +1,5 @@
 untitled.tex
 figures/BMP_Table1
-Citing_other_papers_is_easy__.tex
 2742.html
 b301.tex
 aac.tex
