@@ -17,3 +17,4 @@ figures/rvBg
 figures/CH4
 figures/BMP_Table5
 hcrlso65n6o.tex
+figures/BMP_Table6
