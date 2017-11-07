@@ -7,6 +7,7 @@ aac.tex
 dfb2.tex
 ctnonkn5io4.tex
 pnm19u039bs.tex
+figures/BMP_Table3-1
 i179f8hgvcs.tex
 j9ickl6p3j4.tex
 figures/Article2_Table3
