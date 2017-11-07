@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/BMP_Table5/BMP_Table6.xlsx
+  - path: figures/BMP_Table5/BMP_Table5.xlsx
     type: table
     from:
     - 1
@@ -18,4 +18,4 @@ grid:
     - 1
     folder_url: "/users/102716/articles/173986/master/folder/figures/BMP_Table5"
     treatFirstLineAsHeader: true
-    url: "/users/102716/articles/173986/master/file/figures/BMP_Table5/BMP_Table6.xlsx"
+    url: "/users/102716/articles/173986/master/file/figures/BMP_Table5/BMP_Table5.xlsx"
