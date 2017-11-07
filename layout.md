@@ -5,7 +5,6 @@ figures/BMP_Table21
 aac.tex
 72cf.html
 dfb2.tex
-figures/BMP_Table2
 ctnonkn5io4.tex
 pnm19u039bs.tex
 i179f8hgvcs.tex
