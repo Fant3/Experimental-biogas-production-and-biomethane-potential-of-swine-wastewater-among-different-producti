@@ -18,6 +18,6 @@ grid:
     - 1
     folder_url: "/users/102716/articles/173986/master/folder/figures/BMP_Table6"
     treatFirstLineAsHeader: true
-    fontSize: small
+    fontSize: footnotesize
     maxColumns: ''
     url: "/users/102716/articles/173986/master/file/figures/BMP_Table6/BMP_Table6.xlsx"
