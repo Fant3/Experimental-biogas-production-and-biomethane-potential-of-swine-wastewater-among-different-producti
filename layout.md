@@ -23,4 +23,6 @@ figures/BMP_Table6
 jj5ke1cfg0s.html
 pr7rb2cmh8s.tex
 figures/weaners-model
+figures/fattening-model
+figures/weaners-model1
 rbgffvksu4k.html
