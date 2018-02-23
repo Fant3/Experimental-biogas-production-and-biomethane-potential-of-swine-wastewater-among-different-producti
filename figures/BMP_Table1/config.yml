@@ -20,3 +20,5 @@ grid:
     folder_url: "/users/102716/articles/173986/master/folder/figures/BMP_Table1"
     treatFirstLineAsHeader: true
     fontSize: footnotesize
+    maxRows: '16'
+    maxColumns: '3'
