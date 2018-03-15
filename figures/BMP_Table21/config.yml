@@ -19,4 +19,4 @@ grid:
     url: "/users/102716/articles/173986/master/file/figures/BMP_Table21/BMP_Table21.xlsx"
     folder_url: "/users/102716/articles/173986/master/folder/figures/BMP_Table21"
     treatFirstLineAsHeader: true
-    fontSize: footnotesize
+    fontSize: scriptsize
