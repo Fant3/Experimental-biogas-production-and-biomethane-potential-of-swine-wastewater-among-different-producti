@@ -19,6 +19,6 @@ grid:
     url: "/users/102716/articles/173986/master/file/figures/BMP_Table1/BMP_Table1.xlsx"
     folder_url: "/users/102716/articles/173986/master/folder/figures/BMP_Table1"
     treatFirstLineAsHeader: true
-    fontSize: scriptsize
+    fontSize: footnotesize
     maxRows: '16'
     maxColumns: '3'
